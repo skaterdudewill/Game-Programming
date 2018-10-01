@@ -1,0 +1,10 @@
+C:\Users\Singularity\source\repos\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\Singularity\source\repos\Example\Example\obj\Debug\Example.Properties.Resources.resources
+C:\Users\Singularity\source\repos\Example\Example\obj\Debug\Example.csproj.GenerateResource.cache
+C:\Users\Singularity\source\repos\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\Singularity\source\repos\Example\Example\bin\Debug\Example.exe.config
+C:\Users\Singularity\source\repos\Example\Example\bin\Debug\Example.exe
+C:\Users\Singularity\source\repos\Example\Example\bin\Debug\Example.pdb
+C:\Users\Singularity\source\repos\Example\Example\obj\Debug\Example.exe
+C:\Users\Singularity\source\repos\Example\Example\obj\Debug\Example.pdb
+C:\Users\Singularity\source\repos\Example\Example\obj\Debug\Example.Engine.resources
